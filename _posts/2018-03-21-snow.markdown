@@ -1,6 +1,6 @@
 ---
-title: snow
-color: pink
+title: Take a trip to Prague
+
 ---
 <h4>IT'S SNOWING OUTSIDE</h4>
 
