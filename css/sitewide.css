@@ -31,7 +31,17 @@ body {
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
+	background-image: url(../img/car.jpg); 
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: pink;
+	height: 100%;
 }
+
+html {
+	height: 100%;
+}	
 
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
@@ -43,9 +53,10 @@ body {
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 90%;
+	width: 55%;
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
+	background-color: rgba(0,130,171,0.85);
 }
 
