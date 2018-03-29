@@ -11,5 +11,6 @@ People travel for many different reasons, these are main reasons in order, of wh
 - See a new culture
 - Relax
 - Get some sun
+- Quality time with the one i travel with
 
 ---
