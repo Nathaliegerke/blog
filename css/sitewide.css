@@ -55,15 +55,6 @@ h1 {
 	padding-bottom: 2em;
 }
 
-p {
-	position: left;
-}
-
-/*	Generally, you will only want one container element in
-	the document, wrapping around the main content area. 
-	If you have more than one container, you are probably doing
-	something wrong. 	
-*/
 .container {
 	margin-right: auto;
 	margin-left: auto;
@@ -72,25 +63,14 @@ p {
 	padding: 2em;
 	border: 5px solid #eee;
 	background-color: rgba(255,255,255,0.85);
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 a {
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 	text-decoration: none;
 	color: #4A4A4A;
 }
 
-.ul {
+ul {
 	position: left;
 }
 
-title {
-	position: center;
-	font-size: 2em;
-	font-family: 'Playfair Display', serif;
-	margin-right: auto;
-	margin-left: auto;
-	padding: 2em;
-	background-color: white;
-}
