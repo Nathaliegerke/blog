@@ -62,7 +62,7 @@ h1 {
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
-	background-color: rgba(0,0,0,0.85);
+	background-color: rgba(255,255,255,0.85);
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
