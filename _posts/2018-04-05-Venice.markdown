@@ -4,11 +4,11 @@ title: Venice
 
 ---
 
-<p1>This sinking, but oh so gorgeous town is worth the visit before it sinks to much. Unfortunately the tourism is taking over big parts of
+<p>This sinking, but oh so gorgeous town is worth the visit before it sinks to much. Unfortunately the tourism is taking over big parts of
 Venice so the real Italy feeling can sometime be hard to find. I recommend you to buy a map and walk arround without a guide and just look at
 all the beautiful buildings and churches. When you're hungry, stop at a restaurant that's more hidden because then you won't get that tourism feeling
-and you won't need to pay as much for the food. Venice is more then beautiful – it is breath taking!</p1>
+and you won't need to pay as much for the food. Venice is more then beautiful – it is breath taking!</p>
 
-PICTURE
+<img src="/blog/img/venice.jpg" alt="Venice">
 
 ---
