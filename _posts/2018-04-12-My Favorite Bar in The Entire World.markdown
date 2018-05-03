@@ -1,6 +1,6 @@
 ---
 
-Title: My favorite bar in the entire world
+Title: My Favorite Bar in The Entire World
 
 ---
 
