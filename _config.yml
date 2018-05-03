@@ -1,6 +1,6 @@
 
 # Site settings
-title: Nathalie Gerke
+title: Travel recommendations
 description: Travel & Food
 baseurl: "/blog" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "http://nathaliegerke.github.io" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
