@@ -48,13 +48,10 @@ h1 {
 	position: center;
 	font-size: 2em;
 	font-family: 'Playfair Display', serif;
-	margin-top: 0;
 	margin-right: auto;
-	margin-bottom: 1em;
 	margin-left: auto;
 	padding: 2em;
 	background-color: white;
-	padding-bottom: 0;
 }
 
 p {
@@ -90,11 +87,11 @@ a {
 }
 
 title {
-	margin-top: 0;
+	position: center;
+	font-size: 2em;
+	font-family: 'Playfair Display', serif;
 	margin-right: auto;
-	margin-bottom: 1em;
 	margin-left: auto;
 	padding: 2em;
 	background-color: white;
-	padding-bottom: 0;
 }
