@@ -1,6 +1,6 @@
 ---
 
-title: Rent a rowboat in D.C.
+title: Rent a Rowboat In D.C.
 
 ---
 
