@@ -7,6 +7,6 @@ Title: Good Coffee In Washington D.C.
 
 I visited a breakfast place here in D.C. (which i will tell you about later), and i found the coffee. I asked our waitor and where the coffee is from, and he told me that there is three coffee shops of that brand. The coffee is called Compass Coffee. I loved the flavour and they didn't drown my cappucino in milk as other places do. So if you're looking for good coffee, this is where you should go. All of their coffee shops is in downtown D.C. </p>
 
-
+<img src="/blog/img/compass.jpg" alt="Coffee">
 
 ---
