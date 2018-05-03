@@ -1,6 +1,6 @@
 ---
 
-title: Places on my bucket list
+title: Places on My Bucket List
 
 ---
 
