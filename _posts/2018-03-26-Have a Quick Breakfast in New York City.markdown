@@ -1,5 +1,5 @@
 ---
-title: A Quick Breakfast in New York
+title: Have a Quick Breakfast in New York City
 
 ---
 
