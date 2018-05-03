@@ -1,6 +1,6 @@
 ---
 
-Title: A beautiful view in D.C.
+Title: Beautiful View In D.C.
 
 ---
 
