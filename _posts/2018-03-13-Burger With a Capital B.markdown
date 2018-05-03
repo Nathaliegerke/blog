@@ -1,6 +1,6 @@
 ---
 
-Title: Burger with a capital B
+Title: Burger With a Capital B
 
 ---
 
