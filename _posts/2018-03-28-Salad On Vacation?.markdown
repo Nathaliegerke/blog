@@ -1,6 +1,6 @@
 ---
 
-Title: Salad on a vacation?
+Title: Salad On Vacation?
 
 ---
 
