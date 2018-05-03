@@ -46,8 +46,12 @@ html {
 
 h1 {
 	position: center;
-	font-size: 22px;
+	font-size: 30px;
 	font-family: 'Playfair Display', serif;
+}
+
+p {
+	position: left;
 }
 
 /*	Generally, you will only want one container element in
