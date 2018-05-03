@@ -6,8 +6,7 @@ Title: Las Vegas
 
 <h4> Experience the beach in Las Vegas</h4>
 
-<p1>There is only one place in Las Vegas were you can visit the beach, an actual (fake) beach. 
+<p>There is only one place in Las Vegas were you can visit the beach, an actual (fake) beach. 
 The beach is located at Mandalay Bay hotel. It's beautiful! The pool are is amazing and so is the service. 
-Staying here, you can uring the days stay at the beach and during the night visit the casinos and bars. A perfect combination if you ask me!</p1>
+Staying here, you can uring the days stay at the beach and during the night visit the casinos and bars. A perfect combination if you ask me!</p>
 
-PICTURE
